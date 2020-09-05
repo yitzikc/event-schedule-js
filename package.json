@@ -21,6 +21,11 @@
   "files": [
     "lib/**/*"
   ],
+  "homepage": "https://github.com/yitzikc/scheduled-event-timeline-js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/yitzikc/scheduled-event-timeline-js.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
